@@ -1,8 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
-
 ## Before running
 
-You need to have NodeJS, if you do not have it installed please install it: https://nodejs.org/
+You need to have NodeJS, if you do not have it installed please install it: https://nodejs.org/.
+If you have it or you have installed it, you need to run this command: `npm i` <= that would install every package in the package.json
 
 ## Available Scripts
 
