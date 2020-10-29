@@ -1,6 +1,7 @@
 ## Before running
 
 You need to have NodeJS, if you do not have it installed please install it: https://nodejs.org/.
+
 If you have it or you have installed it, you need to run this command: `npm i` <= that would install every package in the package.json
 
 ## Available Scripts
