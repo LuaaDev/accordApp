@@ -4,6 +4,8 @@ You need to have NodeJS, if you do not have it installed please install it: http
 
 If you have it or you have installed it, you need to run this command: `npm i` <= that would install every package in the package.json
 
+You also need to know how to : `Use Firebase`, `Use Firebase Realtime Database`, `Use Firebase Hosting` and finally : `Connect the config of your project`
+
 ## Available Scripts
 
 In the project directory, you can run:
