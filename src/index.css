@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Whitney';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Whitney'), url('whitneybook.woff') format('woff');
+}
+
+* {
+  margin: 0;
+}
+
+body {
+  margin: 0;
+  font-family: 'Whitney';
+}
+
+code {
+  font-family: 'Whitney';
+}

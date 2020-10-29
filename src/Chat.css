@@ -1,0 +1,78 @@
+.chat {
+    display: flex;
+    flex-direction: column;
+    flex: 0.85;
+    background-color: #36393F;
+    height: 100vh;
+}
+
+.chat__messages {
+    flex: 1;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.chat__messages::-webkit-scrollbar {
+    width: 12px;
+    background: #2E3338;
+    border-radius: 15px;
+}
+
+.chat__messages::-webkit-scrollbar-thumb {
+    background: #202225;
+    border-radius: 15px;
+}
+
+.chat__messages {
+    -ms-overflow-style: none;
+    scrollbar-width: 15px;
+}
+
+.chat__input {
+    color: lightgray;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 10px;
+    margin: 20px;
+    border-top: 1px solid #40444B;
+    background-color: #40444B;
+}
+
+.chat__input > form > input {
+    padding: 12.5px;
+    background: transparent;
+    border: none;
+    width: 98%;
+    outline-width: 0;
+    color: rgb(226, 226, 226);
+    font-size: large;
+}
+
+.chat__inputIcons > .MuiSvgIcon-root {
+    cursor: pointer;
+}
+
+.chat__inputIcons > .MuiSvgIcon-root:hover {
+    color: white;
+}
+
+.chat__input > .MuiSvgIcon-root {
+    cursor: pointer;
+}
+
+.chat__input > .MuiSvgIcon-root:hover {
+    color: white;
+}
+
+.chat__input > form {
+    flex: 1;
+}
+
+.chat__input > .MuiSvgIcon-root {
+    padding: 5px;
+}
+
+.chat__inputButton {
+    display: none;
+}
