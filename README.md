@@ -4,7 +4,7 @@ You need to have NodeJS, if you do not have it installed please install it: http
 
 If you have it or you have installed it, you need to run this command: `npm i` <= that would install every package in the package.json
 
-You also need to know how to : `Use Firebase`, `Use Firebase Realtime Database`, `Use Firebase Hosting` and finally : `Connect the config of your project` or you can check video: https://www.youtube.com/watch?v=uWPUPfvQhr8&feature=youtu.be <= if you want to please subscribe so I can make good content like these web app
+You also need to know how to : `Use Firebase`, `Use Firebase Realtime Database`, `Use Firebase Hosting` and finally : `Connect the config of your project` or you can check video: https://www.youtube.com/watch?v=uWPUPfvQhr8&feature=youtu.be <= if you want to please subscribe so I can make good content like accord web app
 
 ## Available Scripts
 
